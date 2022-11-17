@@ -1,5 +1,5 @@
 # test
 
-test coauthor commit
+coauthor commit test
 
 #  

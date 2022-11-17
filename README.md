@@ -1,6 +1,3 @@
 # test
 
-coauthor commit test
-
-test coauthor commit   
-
+```coauthor commit test```
